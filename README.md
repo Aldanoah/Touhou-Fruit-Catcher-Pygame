@@ -4,7 +4,7 @@ Osu! style fruit catcher pygame.
 ![p2](https://github.com/Aldanoah/Touhou-Fruit-Catcher-Pygame/assets/84312447/259c6f58-1c8b-4c12-bb96-8833bf280994)
 
 =「credits」=
-<p>Adapted from Fruit Productions fruit-catcher pygame. </p>
+<p>Adapted from Code Nust's Python game tutorial.</p>
 <p>Sounds effects from Touhou Koumakyou The Embodiment of Scarlet Devil </p> 
 <p>Background image by Hanamoto410 </p>
 <p>Fruit sprites by Nikoichu </p>
