@@ -46,10 +46,10 @@ clock = pygame.time.Clock()
 
 # Define Fruit Properties
 fruits = [
-    {'image': watermelon_img, 'width': 50, 'height': 50, 'speed': 5, 'score': 10},
-    {'image': grape_img, 'width': 50, 'height': 50, 'speed': 6, 'score': 20},
-    {'image': pineapple_img, 'width': 50, 'height': 50, 'speed': 7, 'score': 30},
-    {'image': cherry_img, 'width': 50, 'height': 50, 'speed': 8, 'score': 40},
+    {'image': watermelon_img, 'width': 50, 'height': 50, 'speed': 6, 'score': 10},
+    {'image': grape_img, 'width': 50, 'height': 50, 'speed': 7, 'score': 20},
+    {'image': pineapple_img, 'width': 50, 'height': 50, 'speed': 8, 'score': 30},
+    {'image': cherry_img, 'width': 50, 'height': 50, 'speed': 9, 'score': 40},
     {'image': chili_img, 'width': 50, 'height': 50, 'speed': 10, 'score': 50}
     
 ]
