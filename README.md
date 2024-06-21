@@ -1,4 +1,4 @@
-Osu! style fruit catcher pygame. 
+Osu! style fruit catcher pygame.  Please enable audio on the video preview.
 
 https://github.com/Aldanoah/Touhou-Fruit-Catcher-Pygame/assets/84312447/f8225e8b-0cdb-4e5a-b434-5bd048e3bac9
 
