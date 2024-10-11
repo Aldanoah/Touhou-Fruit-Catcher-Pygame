@@ -8,7 +8,7 @@ https://github.com/Aldanoah/Touhou-Fruit-Catcher-Pygame/assets/84312447/f8225e8b
 
 =installation steps=
 <br>
-Download the latest Executable from the released tab or alternatively run in console using the following commands. Please ensure that the game directory is the current working directory before proceeding.
+Please download the latest executable from the releases tab or alternatively run in console using the following commands. Ensure that the game directory is the current working directory before proceeding.
 
 <p>1) wsl --install --webdownload</p>
 <p>2) sudo apt-get install python-is-python3</p>
