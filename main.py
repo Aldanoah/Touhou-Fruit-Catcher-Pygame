@@ -174,6 +174,19 @@ class Game:
         font = pygame.font.SysFont(None, 25)
         text = font.render("Use the left and right arrows to control and shift to dash ", True, WHITE)
         screen.blit(text, (10, 50))
+    
+    def check_collision(self):
+        """
+        Checks for collision, duh
+        """
+        if (self.fruit.y + self.fruit.height > self.basket.y and
+            self.fruit.y < self.basket.y + self.basket.height and
+            self.basket.x < self.fruit.x + self.fruit.width and
+            self.fruit.x < self.basket.x + self.basket.width):
+        
+            self.score += self.fruit.score
+            catch_sound.play()
+            self.fruit = Fruit(random.choice(fruits_data))
 
     def run(self):
         """
