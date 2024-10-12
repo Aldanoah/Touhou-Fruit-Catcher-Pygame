@@ -9,6 +9,8 @@ Please download the latest executable from the releases tab or alternatively run
 <p>3) sudo apt install python3-pygame</p>
 <p>4) Launch "python main.py"</p>
 
+Please enable audio on video preview.
+
 https://github.com/Aldanoah/Touhou-Fruit-Catcher-Pygame/assets/84312447/f8225e8b-0cdb-4e5a-b434-5bd048e3bac9
 
 
